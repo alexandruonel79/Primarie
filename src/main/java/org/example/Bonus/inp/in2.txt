@@ -1,0 +1,13 @@
+adauga_eveniment;  11-Dec-2022 00:00:00; Bucuresti; Seara in aer liber
+adauga_speaker; John; motivational; Seara in aer liber
+adauga_dansator; Mario; DanceAcademy; latino; Seara in aer liber
+adauga_cantaret; Darius; pop; Seara in aer liber
+afisare_evenimente
+adauga_eveniment;  11-Dec-2022 00:00:00; Zanoaga; Ziua in aer liber
+adauga_speaker; John; motivational; Ziua in aer liber
+adauga_dansator; Mario; DanceAcademy; latino; Ziua in aer liber
+adauga_cantaret; Darius; pop; Ziua in aer liber
+adauga_speaker; John1111; motivational; Ziua in aer liber
+adauga_dansator; Mario111; DanceAcademy; latino; Ziua in aer liber
+adauga_cantaret; Darius1111; pop; Ziua in aer liber
+afisare_evenimente

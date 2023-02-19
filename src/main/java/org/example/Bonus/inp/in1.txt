@@ -1,0 +1,5 @@
+adauga_eveniment;  11-Dec-2022 00:00:00; Bucuresti; Seara in aer liber
+adauga_speaker; John; motivational; Seara in aer liber
+adauga_dansator; Mario; DanceAcademy; latino; Seara in aer liber
+adauga_cantaret; Darius; pop; Seara in aer liber
+afisare_evenimente
